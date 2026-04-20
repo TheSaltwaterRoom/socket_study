@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="udpclient.vcxproj" Id="e537c244-73f1-45ac-92fe-be08f9a86de6" />
+</Solution>

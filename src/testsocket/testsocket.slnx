@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="testsocket.vcxproj" Id="bbacc971-9a29-4b06-9333-fb5f74fb39f3" />
+</Solution>

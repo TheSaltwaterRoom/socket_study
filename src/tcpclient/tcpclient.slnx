@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../xsocket/xsocket.vcxproj" />
+  <Project Path="tcpclient.vcxproj">
+    <BuildDependency Project="../xsocket/xsocket.vcxproj" />
+  </Project>
+</Solution>

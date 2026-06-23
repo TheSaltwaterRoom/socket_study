@@ -3,8 +3,8 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="../tcpserver/tcpserver.vcxproj">
+  <Project Path="../tcpserver/tcpserver.vcxproj" Id="ccc810b5-f9c4-47d0-841f-3cac5b1d0052">
     <BuildDependency Project="xsocket.vcxproj" />
   </Project>
-  <Project Path="xsocket.vcxproj" />
+  <Project Path="xsocket.vcxproj" Id="c8bef13e-97c1-40d3-8742-e92d5e4b9e15" />
 </Solution>

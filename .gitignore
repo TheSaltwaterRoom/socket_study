@@ -18,7 +18,7 @@ x64/
 x86/
 ARM/
 ARM64/
-[Bb]in/
+#[Bb]in/
 [Oo]bj/
 obj/
 
@@ -41,6 +41,8 @@ obj/
 *.exe
 *.dll
 *.lib
+!lib/
+!lib/**
 *.exp
 
 # Per-user project settings
